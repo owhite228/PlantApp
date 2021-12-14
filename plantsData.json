@@ -1,0 +1,74 @@
+[
+    {
+        "genus": "Calathea",
+        "variety": "White Fusion",
+        "condition": "2",
+        "waterInt": 7.0,
+        "whenWater": 7.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1001,
+        "imageName": "calatheawf"
+    },
+    {
+        "genus": "Tradescantia",
+        "variety": "Nanouk",
+        "condition": "1",
+        "waterInt": 7.0,
+        "whenWater": 7.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1002,
+        "imageName": "tradn"
+    },
+    {
+        "genus": "Calathea",
+        "variety": "Vitatta",
+        "condition": "4",
+        "waterInt": 7.0,
+        "whenWater": 7.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1003,
+        "imageName": "calatheav"
+    },
+    {
+        "genus": "Pothos",
+        "variety": "Neon",
+        "condition": "5",
+        "waterInt": 12.0,
+        "whenWater": 12.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1004,
+        "imageName": "pothosn"
+    },
+    {
+        "genus": "Pothos",
+        "variety": "Marble Queen",
+        "condition": "5",
+        "waterInt": 12.0,
+        "whenWater": 12.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1005,
+        "imageName": "pothosmq"
+    },
+    {
+        "genus": "Hoya",
+        "variety": "Obovata",
+        "condition": "4",
+        "waterInt": 25.0,
+        "whenWater": 25.0,
+        "whenFertilize": 30,
+        "watered": false,
+        "fertilized": false,
+        "id": 1006,
+        "imageName": "hoyao"
+    },
+]
